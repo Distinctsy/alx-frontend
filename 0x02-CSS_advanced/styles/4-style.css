@@ -6,8 +6,8 @@ root {
     --color-dark-grey: #353535;
     --text-color: var(--color-black);
 
-    --font-family-base: Helvetica Neue, Helvetica, Arial, sans-serif;
-    --font-family-title: Helvetica Neue, Helvetica, Arial, sans-serif;
+    --font-family-base: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-family-title: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /*Smooth transition when we scrolling */
